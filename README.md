@@ -4,6 +4,7 @@
 
 | Presentation        | Presentation Abstract           | Event Date       |
 | ------------- |:-------------| ---------------|
+| ![201909](/images/201909CarolDrivesARedCar.jpg)    | [Carol drives a red car](/201909CarolDrivesARedCar.pdf) - Ethically aware decision making  | [DDD Sydney](https://www.dddsydney.com.au/)  **September 2019** |
 | ![20190000](/images/201908KafkaKubernetesOperatoronGCP.png)    | [Running Kafka on Kubernetes GCP](/201908KafkaKubernetesOperatoronGCP.pdf) -  Google Cloud Platform  | [GCP Data Meet-up @ Google](https://www.meetup.com/Big-Data-Sydney/events/263932958/)  **August 2019** |
 | ![201908](/images/201908AliceHasABlueCar.png)    | [Alice has a Blue Car](/201904IAG-Kafka-DatEngMeetup.pdf) - Beginning the Conversation Around Ethically Aware Decision Making  | [ThoughtWorks - Tech Talk Series](https://www.meetup.com/By-ThoughtWorks/events/263662165/)  **August 2019** |
 | ![201908](/images/201908KSQLRunning.png)    | [Did I beat Ben?](/201908KSQLRunning.pdf) - Race tracking with Kafka KSQL, MQTT & Kibana  | [Apache Kafka Sydney](https://www.meetup.com/apache-kafka-sydney/events/263745415/)  **July 2019** |
