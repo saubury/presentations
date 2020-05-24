@@ -2,8 +2,9 @@
 
 
 
-| Presentation        | Presentation Abstract           | Event Date       |
+| Presentation        | Presentation Title           | Event Date       |
 | ------------- |:-------------| ---------------|
+| ![202005](/images/202005SockSortingKafka.jpg)    | [Pairing socks with ksqlDB, Kafka and Kafka Connect](/202005SockSortingKafka.pdf)  | [Apache Kafka Meetup](https://something)  **May 2020** |
 | ![201910](/images/201910KSQLMachineLearningPower.jpg)    | [Machine learning & Kafka KSQL stream processing](/201910KSQLMachineLearningPower.pdf)  | [Apache Kafka Sydney](https://www.meetup.com/apache-kafka-sydney/events/265104559/)  **October 2019** |
 | ![201909](/images/201909CarolDrivesARedCar.jpg)    | [Carol drives a red car](/201909CarolDrivesARedCar.pdf) - Ethically aware decision making  | [DDD Sydney](https://www.dddsydney.com.au/)  **September 2019** |
 | ![20190000](/images/201908KafkaKubernetesOperatoronGCP.png)    | [Running Kafka on Kubernetes GCP](/201908KafkaKubernetesOperatoronGCP.pdf) -  Google Cloud Platform  | [GCP Data Meet-up @ Google](https://www.meetup.com/Big-Data-Sydney/events/263932958/)  **August 2019** |
